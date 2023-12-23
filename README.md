@@ -20,7 +20,7 @@ Topics:
   - [Mobile Manipulation](topics/mobile_manipulation.md)
   - [Humanoid](topics/humanoid.md)
 
-- [Reinforcement Learning]
+- Reinforcement Learning
   - [Deep Reinforcement Learning](topics/reinforcement_learning.md)
   - [Visual Reinforcement Learning](topics/visual_reinforcement_learning.md)
   
